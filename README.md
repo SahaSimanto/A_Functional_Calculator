@@ -14,3 +14,5 @@ Calculator Functionality:
   3. Clicking on a new number button without first selecting any operation button auto clears the previous result in order to start a new calculation
   4. Integrated BODMAS rules
   5. Able to tackle negative results
+
+Video Demonstration: https://drive.google.com/file/d/19nxtv2yrP2nLaVDuJeXKdDDFzAwy0yAI/view?usp=sharing
